@@ -1,5 +1,5 @@
-Il l'm excited to share that l've successfully completed Project 1 given by MeriSKILL which is a comprehensive sales analysis project! 
-Leveraging a combination of Excel, Power BI, and Tableau, I delved deep into the data to uncover valuable insights and trends. 
+ l'm excited to share that l've successfully completed Project 2 given by MeriSKILL which is a comprehensive sales analysis project! 
+Leveraging a combination of Exceland Power BII delved deep into the data to uncover valuable insights and trends. 
 The power of these tools allowed me to visualize complex data, identify key patterns, and make informed decisions.
 Grateful for the opportunity to contribute to data-driven decision-making!
 Project Highlights:
